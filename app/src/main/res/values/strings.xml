@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">System Info</string>
+    <string name="cpu_info">CPU Info</string>
+</resources>
